@@ -1,4 +1,4 @@
-# 🤟 SignSync — ISL Translator
+# 🤟 SignSync - ISL Translator
 
 A bidirectional **Indian Sign Language (ISL)** translator that runs entirely in your browser. Sign at your webcam and get text/speech, or type text and watch it turn into signs. No server, no uploads, real-time inference.
 
